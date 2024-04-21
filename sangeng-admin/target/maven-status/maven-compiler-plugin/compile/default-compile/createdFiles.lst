@@ -1,0 +1,5 @@
+com\sangeng\BlogAdminApplication.class
+com\sangeng\controller\TagController.class
+com\sangeng\controller\LoginController.class
+com\sangeng\filter\JwtAuthenticationTokenFilter.class
+com\sangeng\config\SecurityConfig.class
